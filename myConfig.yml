@@ -1,9 +1,0 @@
-application:
-    name: mySpringCloudConfig
-    
-host:
-    address: 192.168.50.129
-    port: 9999
-    
-mapper:
-    scanBase: com.hwua.mapper
